@@ -1,2 +1,1 @@
-# Find_your_perfect_place_to_stay
-# Find_your_perfect_place_to_stay
+![Find your perfect place to stay](./src/img/image.png "Find your perfect place to sta")
